@@ -31,4 +31,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/arashrahimi46//"><img src="https://img.shields.io/badge/-Arash%20Rahimi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arashrahimi46@gmail.com"><img src="https://img.shields.io/badge/-hi@ehcan.me-black?style=flat&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:arashrahimi46@gmail.com"><img src="https://img.shields.io/badge/-arashrahimi46@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
