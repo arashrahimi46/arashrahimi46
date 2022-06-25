@@ -23,13 +23,12 @@
 
 <p align="center">
 <a href="https://github.com/Ehcaning">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ehcaning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ehcaning&layout=compact&langs_count=12&theme=algolia&hide=css,html,scss"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arashrahimi46&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arashrahimi46&layout=compact&langs_count=12&theme=algolia&hide=css,html,scss"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/ehcan//"><img src="https://img.shields.io/badge/-Ehsan%20Seyedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://ehcan.me"><img src="https://img.shields.io/badge/-ehcan.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:hi@ehcan.me"><img src="https://img.shields.io/badge/-hi@ehcan.me-black?style=flat&logo=maildotru&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arashrahimi46//"><img src="https://img.shields.io/badge/-Arash%20Rahimi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:arashrahimi46@gmail.com"><img src="https://img.shields.io/badge/-hi@ehcan.me-black?style=flat&logo=maildotru&logoColor=white"/></a>
